@@ -1,0 +1,6 @@
+file (6): (card_01_horizontal_01_1):	text:	(['.', '', '—', '', 'Co', 'ae'])
+file (1): (card_01_horizontal_01_L):	text:	([''])
+file (1): (card_01_horizontal_01_P):	text:	([''])
+file (1): (card_01_horizontal_01_RGB):	text:	([''])
+file (1): (card_01_horizontal_01_RGBA):	text:	([''])
+file (1): (card_01_horizontal_01_I):	text:	([''])

@@ -1,0 +1,7 @@
+
+1.  find repository of all cards and their pictures (Training set)
+2.  determine a way of using a phone to take pictures of the screen
+3.  find a unique feature to all cards (Normalize)
+    -   square shape
+    -   using ATK + DEF to search possible cards
+    -   different attributes depending on played or in hand
